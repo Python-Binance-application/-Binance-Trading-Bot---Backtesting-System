@@ -1,0 +1,92 @@
+MIT License
+
+Copyright (c) 2025 Salvatore Mattiello
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+BACKTESTING & TRADING DISCLAIMER:
+
+This backtesting software is provided for educational, research, and analytical 
+purposes only. It is designed to test trading strategies on historical data and 
+should not be considered as financial advice or a guarantee of future performance.
+
+IMPORTANT CONSIDERATIONS:
+
+1. PAST PERFORMANCE IS NOT INDICATIVE OF FUTURE RESULTS
+   Backtesting results are based on historical data and may not reflect actual 
+   trading conditions, market volatility, or future price movements.
+
+2. BACKTESTING LIMITATIONS
+   - Does not account for slippage in all market conditions
+   - May not reflect liquidity constraints during extreme market events
+   - Assumes instant order execution at desired prices
+   - Does not simulate partial fills or rejected orders
+   - Market conditions change and historical patterns may not repeat
+
+3. OVERFITTING RISK
+   Optimizing parameters on historical data may lead to overfitting, where the 
+   strategy performs well on past data but poorly in live trading.
+
+4. FORWARD TESTING REQUIRED
+   Always conduct forward testing (paper trading) before deploying any strategy 
+   with real capital. Monitor performance closely for significant divergence 
+   from backtested results.
+
+5. RISK MANAGEMENT
+   - Only trade with capital you can afford to lose
+   - Cryptocurrency trading involves substantial risk of loss
+   - Margin trading amplifies both gains and losses
+   - Always use appropriate position sizing and stop losses
+
+6. NO FINANCIAL ADVICE
+   The authors and contributors are not licensed financial advisors. This 
+   software does not constitute investment advice, trading recommendations, 
+   or solicitation to buy or sell any financial instruments.
+
+7. USER RESPONSIBILITY
+   By using this backtesting software, you acknowledge that:
+   - You are solely responsible for your trading decisions
+   - You understand the limitations of backtesting
+   - You will conduct proper due diligence before live trading
+   - You will not hold the authors liable for any trading losses
+   - You comply with all applicable laws and regulations
+
+8. DATA ACCURACY
+   While efforts are made to ensure data accuracy, the authors cannot guarantee 
+   the completeness, accuracy, or timeliness of historical data obtained from 
+   third-party sources.
+
+9. REGULATORY COMPLIANCE
+   Users are responsible for ensuring their use of this software complies with 
+   all applicable financial regulations, securities laws, and trading rules in 
+   their jurisdiction.
+
+10. TESTING REQUIREMENT
+    Never deploy a strategy to live trading based solely on backtest results. 
+    Always conduct extensive paper trading and forward testing with small 
+    amounts before scaling up.
+
+The authors, contributors, and distributors of this software expressly disclaim 
+all liability for any direct, indirect, incidental, consequential, or punitive 
+damages arising from the use or misuse of this backtesting software, including 
+but not limited to financial losses, missed opportunities, or system errors.
+
+USE THIS SOFTWARE AT YOUR OWN RISK.
