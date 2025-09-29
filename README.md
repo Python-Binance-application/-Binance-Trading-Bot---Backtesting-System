@@ -314,7 +314,7 @@ Le pull request sono benvenute! Per modifiche importanti:
 
 ## 📄 Licenza
 
-[MIT](LICENSE)
+[MIT](./MIT-License)
 
 ## ⚖️ Disclaimer
 
